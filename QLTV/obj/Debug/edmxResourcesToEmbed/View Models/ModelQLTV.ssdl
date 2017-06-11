@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyThuVien2Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DocGia">
+    <Key>
+      <PropertyRef Name="MaDocGia" />
+    </Key>
+    <Property Name="MaDocGia" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenDocGia" Type="nvarchar" MaxLength="50" />
+    <Property Name="GioiTinh" Type="nvarchar" MaxLength="3" />
+    <Property Name="NgaySinh" Type="date" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoCMT" Type="varchar" MaxLength="10" />
+    <Property Name="TienKiGui" Type="money" />
+    <Property Name="ImageDocGia" Type="image" />
+    <Property Name="MaLop" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaKhoa" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Khoa">
+    <Key>
+      <PropertyRef Name="MaKhoa" />
+    </Key>
+    <Property Name="MaKhoa" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenKhoa" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Lop">
+    <Key>
+      <PropertyRef Name="MaLop" />
+    </Key>
+    <Property Name="MaLop" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenLop" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MuonSach">
+    <Key>
+      <PropertyRef Name="MaMuon" />
+    </Key>
+    <Property Name="MaMuon" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MaDocGia" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaSach" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="NgayMuon" Type="date" Nullable="false" />
+    <Property Name="DaTra" Type="bit" Nullable="false" />
+    <Property Name="NgayHen" Type="date" Nullable="false" />
+    <Property Name="SoLuongMuon" Type="int" Nullable="false" />
+    <Property Name="TienCoc" Type="money" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NhaXB">
+    <Key>
+      <PropertyRef Name="MaNXB" />
+    </Key>
+    <Property Name="MaNXB" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenNhaXB" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="IdRole" />
+    </Key>
+    <Property Name="IdRole" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RoleName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ViewAll" Type="bit" />
+    <Property Name="ViewUser" Type="bit" />
+    <Property Name="ViewDocGia" Type="bit" />
+    <Property Name="ViewSachMuon" Type="bit" />
+    <Property Name="ViewSach" Type="bit" />
+    <Property Name="ViewThongKe" Type="bit" />
+    <Property Name="AddAll" Type="bit" />
+    <Property Name="AddUser" Type="bit" />
+    <Property Name="AddDocGia" Type="bit" />
+    <Property Name="AddSachMuon" Type="bit" />
+    <Property Name="AddSach" Type="bit" />
+    <Property Name="AddThongKe" Type="bit" />
+    <Property Name="EditAll" Type="bit" />
+    <Property Name="EditUser" Type="bit" />
+    <Property Name="EditDocGia" Type="bit" />
+    <Property Name="EditSachMuon" Type="bit" />
+    <Property Name="EditSach" Type="bit" />
+    <Property Name="DeleteAll" Type="bit" />
+    <Property Name="DeleteUser" Type="bit" />
+    <Property Name="DeleteDocGia" Type="bit" />
+    <Property Name="DeleteSachMuon" Type="bit" />
+    <Property Name="DeleteSach" Type="bit" />
+  </EntityType>
+  <EntityType Name="Sach">
+    <Key>
+      <PropertyRef Name="MaSach" />
+    </Key>
+    <Property Name="MaSach" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenSach" Type="nvarchar" MaxLength="100" />
+    <Property Name="NamXuatBan" Type="datetime" />
+    <Property Name="SoTrang" Type="int" />
+    <Property Name="TongSoSach" Type="int" />
+    <Property Name="ImageSach" Type="image" />
+    <Property Name="MaTacGia" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaTheLoai" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaNXB" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="LuongDaMuon" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TacGia">
+    <Key>
+      <PropertyRef Name="MaTacGia" />
+    </Key>
+    <Property Name="MaTacGia" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenTacGia" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TheLoai">
+    <Key>
+      <PropertyRef Name="MaTheLoai" />
+    </Key>
+    <Property Name="MaTheLoai" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenTheLoai" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="IDUSER" />
+    </Key>
+    <Property Name="IDUSER" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="USERNAME" Type="nvarchar" MaxLength="50" />
+    <Property Name="PASSWORD" Type="nvarchar" MaxLength="50" />
+    <Property Name="IdRole" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_DocGia_Khoa">
+    <End Role="Khoa" Type="Self.Khoa" Multiplicity="1" />
+    <End Role="DocGia" Type="Self.DocGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Khoa">
+        <PropertyRef Name="MaKhoa" />
+      </Principal>
+      <Dependent Role="DocGia">
+        <PropertyRef Name="MaKhoa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DocGia_Lop">
+    <End Role="Lop" Type="Self.Lop" Multiplicity="1" />
+    <End Role="DocGia" Type="Self.DocGia" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lop">
+        <PropertyRef Name="MaLop" />
+      </Principal>
+      <Dependent Role="DocGia">
+        <PropertyRef Name="MaLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonSach_DocGia">
+    <End Role="DocGia" Type="Self.DocGia" Multiplicity="1" />
+    <End Role="MuonSach" Type="Self.MuonSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DocGia">
+        <PropertyRef Name="MaDocGia" />
+      </Principal>
+      <Dependent Role="MuonSach">
+        <PropertyRef Name="MaDocGia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MuonSach_Sach">
+    <End Role="Sach" Type="Self.Sach" Multiplicity="1" />
+    <End Role="MuonSach" Type="Self.MuonSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sach">
+        <PropertyRef Name="MaSach" />
+      </Principal>
+      <Dependent Role="MuonSach">
+        <PropertyRef Name="MaSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sach_NhaXB">
+    <End Role="NhaXB" Type="Self.NhaXB" Multiplicity="1" />
+    <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhaXB">
+        <PropertyRef Name="MaNXB" />
+      </Principal>
+      <Dependent Role="Sach">
+        <PropertyRef Name="MaNXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sach_TacGia">
+    <End Role="TacGia" Type="Self.TacGia" Multiplicity="1" />
+    <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TacGia">
+        <PropertyRef Name="MaTacGia" />
+      </Principal>
+      <Dependent Role="Sach">
+        <PropertyRef Name="MaTacGia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sach_TheLoai">
+    <End Role="TheLoai" Type="Self.TheLoai" Multiplicity="1" />
+    <End Role="Sach" Type="Self.Sach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TheLoai">
+        <PropertyRef Name="MaTheLoai" />
+      </Principal>
+      <Dependent Role="Sach">
+        <PropertyRef Name="MaTheLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Role">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="IdRole" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="IdRole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyThuVien2ModelStoreContainer">
+    <EntitySet Name="DocGia" EntityType="Self.DocGia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Khoa" EntityType="Self.Khoa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Lop" EntityType="Self.Lop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MuonSach" EntityType="Self.MuonSach" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhaXB" EntityType="Self.NhaXB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sach" EntityType="Self.Sach" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TacGia" EntityType="Self.TacGia" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TheLoai" EntityType="Self.TheLoai" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DocGia_Khoa" Association="Self.FK_DocGia_Khoa">
+      <End Role="Khoa" EntitySet="Khoa" />
+      <End Role="DocGia" EntitySet="DocGia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DocGia_Lop" Association="Self.FK_DocGia_Lop">
+      <End Role="Lop" EntitySet="Lop" />
+      <End Role="DocGia" EntitySet="DocGia" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonSach_DocGia" Association="Self.FK_MuonSach_DocGia">
+      <End Role="DocGia" EntitySet="DocGia" />
+      <End Role="MuonSach" EntitySet="MuonSach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MuonSach_Sach" Association="Self.FK_MuonSach_Sach">
+      <End Role="Sach" EntitySet="Sach" />
+      <End Role="MuonSach" EntitySet="MuonSach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sach_NhaXB" Association="Self.FK_Sach_NhaXB">
+      <End Role="NhaXB" EntitySet="NhaXB" />
+      <End Role="Sach" EntitySet="Sach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sach_TacGia" Association="Self.FK_Sach_TacGia">
+      <End Role="TacGia" EntitySet="TacGia" />
+      <End Role="Sach" EntitySet="Sach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sach_TheLoai" Association="Self.FK_Sach_TheLoai">
+      <End Role="TheLoai" EntitySet="TheLoai" />
+      <End Role="Sach" EntitySet="Sach" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Role" Association="Self.FK_User_Role">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

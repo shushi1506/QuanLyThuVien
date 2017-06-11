@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3536bfd8f1804d3a8b6021373d54c2ee" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.DocGia" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.Khoa" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.Lop" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.MuonSach" Width="1.5" PointX="5.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.NhaXB" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.Role" Width="1.5" PointX="5.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.Sach" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.sysdiagram" Width="1.5" PointX="7.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.TacGia" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.TheLoai" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVien2Model.User" Width="1.5" PointX="8" PointY="9.5" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_DocGia_Khoa" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_DocGia_Lop" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_MuonSach_DocGia" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_MuonSach_Sach" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_Sach_NhaXB" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_User_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_Sach_TacGia" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyThuVien2Model.FK_Sach_TheLoai" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

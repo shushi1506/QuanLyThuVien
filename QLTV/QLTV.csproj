@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86B7EA9F-A1EE-4235-ADDB-4911B917BA0F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLTV</RootNamespace>
+    <AssemblyName>QLTV</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Mvvm.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.2.UI, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Carousel.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Charts.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Controls.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Core.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Docking.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.DocumentViewer.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Grid.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Layout.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.LayoutControl.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.NavBar.v16.2">
+    </Reference>
+    <Reference Include="DevExpress.Xpf.Printing.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Ribbon.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Scheduler.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.2, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v16.2.Extensions, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.2.Core, Version=16.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Controllers\DocGiaController.cs" />
+    <Compile Include="Controllers\KhoaController.cs" />
+    <Compile Include="Controllers\LopController.cs" />
+    <Compile Include="Controllers\NXBController.cs" />
+    <Compile Include="Controllers\RoleController.cs" />
+    <Compile Include="Controllers\SachController.cs" />
+    <Compile Include="Controllers\SachMuonController.cs" />
+    <Compile Include="Controllers\TacGiaController.cs" />
+    <Compile Include="Controllers\TheLoaiController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controls\RoleControls.cs" />
+    <Compile Include="DataSet\BookManager.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookManager.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\BookLoanByMemBer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\BookLoanByMemBer.Designer.cs">
+      <DependentUpon>BookLoanByMemBer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\BookLoanPhieuMuon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\BookLoanPhieuMuon.Designer.cs">
+      <DependentUpon>BookLoanPhieuMuon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\BooksLoanAll.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\BooksLoanAll.Designer.cs">
+      <DependentUpon>BooksLoanAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\MemBerAll.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\MemBerAll.Designer.cs">
+      <DependentUpon>MemBerAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\DocGia.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\DocGiaModel.cs" />
+    <Compile Include="View Models\Khoa.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\KhoaModel.cs" />
+    <Compile Include="View Models\Lop.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\LopModel.cs" />
+    <Compile Include="View Models\ModelQLTV.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelQLTV.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\ModelQLTV.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\ModelQLTV.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelQLTV.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\MuonSach.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\NhaXB.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\NhaXuatBanModel.cs" />
+    <Compile Include="View Models\Role.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\RoleModel.cs" />
+    <Compile Include="View Models\Sach.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\SachModel.cs" />
+    <Compile Include="View Models\SachMuonModel.cs" />
+    <Compile Include="View Models\sysdiagram.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\TacGia.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\TacGiaModel.cs" />
+    <Compile Include="View Models\TheLoai.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\TheLoaiModel.cs" />
+    <Compile Include="View Models\User.cs">
+      <DependentUpon>ModelQLTV.tt</DependentUpon>
+    </Compile>
+    <Compile Include="View Models\UserModel.cs" />
+    <Compile Include="Controls\DocGiaControls.cs" />
+    <Compile Include="Controls\KhoaControls.cs" />
+    <Compile Include="Controls\LopControls.cs" />
+    <Compile Include="Controls\NhaXuatBanControls.cs" />
+    <Compile Include="Controls\SachMuonControls.cs" />
+    <Compile Include="Controls\SachControls.cs" />
+    <Compile Include="Controls\TacGiaControls.cs" />
+    <Compile Include="Controls\TheLoaiControls.cs" />
+    <Compile Include="Controls\UserControls.cs" />
+    <Compile Include="Views\frmDocGia.xaml.cs">
+      <DependentUpon>frmDocGia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmKhoaLop.xaml.cs">
+      <DependentUpon>frmKhoaLop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmSach.xaml.cs">
+      <DependentUpon>frmSach.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmSachMuon.xaml.cs">
+      <DependentUpon>frmSachMuon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmTheLoai.xaml.cs">
+      <DependentUpon>frmTheLoai.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmThongKe.xaml.cs">
+      <DependentUpon>frmThongKe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmUser.xaml.cs">
+      <DependentUpon>frmUser.xaml</DependentUpon>
+    </Compile>
+    <Page Include="frmMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmMain.xaml.cs">
+      <DependentUpon>frmMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Views\frmDocGia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmKhoaLop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmSach.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmSachMuon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmTheLoai.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmThongKe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\frmUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BookLoanByMemBer.resx">
+      <DependentUpon>BookLoanByMemBer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BookLoanPhieuMuon.resx">
+      <DependentUpon>BookLoanPhieuMuon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\BooksLoanAll.resx">
+      <DependentUpon>BooksLoanAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\MemBerAll.resx">
+      <DependentUpon>MemBerAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet\BookManager.xsc">
+      <DependentUpon>BookManager.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\BookManager.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BookManager.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\BookManager.xss">
+      <DependentUpon>BookManager.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <EntityDeploy Include="View Models\ModelQLTV.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelQLTV.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="View Models\ModelQLTV.edmx.diagram">
+      <DependentUpon>ModelQLTV.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resourses\Logout.ico" />
+    <Resource Include="Resourses\1482657929_exit-to-app.ico" />
+    <Resource Include="Resourses\1482657781_common-logout-signout-exit-glyph.ico" />
+    <Resource Include="Resourses\1482657422_Login_in.ico" />
+    <Resource Include="Resourses\1482652196_Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="View Models\ModelQLTV.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelQLTV.edmx</DependentUpon>
+      <LastGenOutput>ModelQLTV.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="View Models\ModelQLTV.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelQLTV.edmx</DependentUpon>
+      <LastGenOutput>ModelQLTV.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

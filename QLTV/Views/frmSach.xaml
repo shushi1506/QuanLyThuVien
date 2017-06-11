@@ -1,0 +1,91 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QLTV.Views"
+             xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" x:Class="QLTV.Views.frmSach"
+             mc:Ignorable="d" Height="510" Width="900" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="99*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="58*"/>
+        </Grid.RowDefinitions>
+        <dxg:GridControl x:Name="gridSach" AutoGenerateColumns="AddNew" Grid.Row="0" EnableSmartColumnsGeneration="True" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  SelectionChanged="gridSach_SelectionChanged" SelectedItemChanged="gridSach_SelectedItemChanged">
+            <dxg:GridControl.View>
+                <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True">
+                    <dxg:TableView.FormatConditions>
+                        <dxg:FormatCondition Expression="[LuongDaMuon] &gt;= [TongSoSach]"
+                                             FieldName="TenSach" >
+                            <dxg:Format
+                                Background="#FFECDA6C"
+                                FontWeight="Bold"
+                                TextDecorations="{x:Null}" />
+                        </dxg:FormatCondition>
+                    </dxg:TableView.FormatConditions>
+
+                </dxg:TableView>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <Grid  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="2" Margin="150,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="20*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="49.667"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label x:Name="label" Content="Tên Sách :" HorizontalAlignment="Left" Margin="0,14,0,0" VerticalAlignment="Top" Width="58" Grid.Row="1"/>
+            <Label x:Name="label1" Content="Năm Xuất Bản:" HorizontalAlignment="Left" Margin="0,14.333,0,0" VerticalAlignment="Top" Width="88" Grid.Row="2"/>
+            <Label x:Name="label2" Content="Số Trang:" HorizontalAlignment="Left" Margin="0,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.107,0.273" Grid.Row="1" Grid.Column="2"/>
+            <Label x:Name="label3" Content="Số Lượng Sách" Margin="0,24,26,0" VerticalAlignment="Top" Grid.Column="2" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch"/>
+            <Label x:Name="label4" Content="Tác Giả" HorizontalAlignment="Left" Margin="0,17.333,0,0" VerticalAlignment="Top" Grid.Row="2" Grid.Column="4"/>
+            <Label x:Name="label5" Content="Nhà Xuất bản" HorizontalAlignment="Left" Margin="0,11,0,0" VerticalAlignment="Top" Grid.Column="4"/>
+            <Label x:Name="label6" Content="Thể Loại:" HorizontalAlignment="Left" Margin="0,13,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.Column="4"/>
+            <ComboBox x:Name="_cbbtacgia" HorizontalAlignment="Left" Margin="0,17.333,0,0" VerticalAlignment="Top" Width="120" Grid.Row="2" Grid.Column="5"/>
+            <ComboBox x:Name="_cbbnxb" HorizontalAlignment="Left" Margin="4,11,0,0" VerticalAlignment="Top" Width="120" Grid.Column="5"/>
+            <ComboBox x:Name="_cbbtheloai" HorizontalAlignment="Left" Margin="4,14,0,0" VerticalAlignment="Top" Width="120" Grid.Row="1" Grid.Column="5"/>
+            <Label x:Name="label7" Content="Mã Sách" HorizontalAlignment="Left" Margin="0,18,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="label8" Content="Sách đã mượn:" HorizontalAlignment="Left" Margin="0,17.333,0,0" VerticalAlignment="Top" Grid.Row="2" Grid.Column="2" />
+            <TextBox x:Name="_txtsachdamuon" HorizontalAlignment="Left" Height="23" Margin="23,13.333,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False" Grid.Row="2" Grid.Column="3"/>
+            <Grid HorizontalAlignment="Left" Height="149" VerticalAlignment="Top" Width="182" Margin="0,0,0,0" Grid.RowSpan="3" Grid.Column="1">
+                <dxe:TextEdit x:Name="_txtmasach" Margin="0,24,-24,0" VerticalAlignment="Top" Width="150" Mask="[a-zA-Z0-9]+" MaskType="RegEx" IsReadOnly="True" HorizontalAlignment="Left" HorizontalContentAlignment="Stretch"/>
+                <dxe:TextEdit x:Name="_txttensach"  HorizontalAlignment="Left" Margin="0,70,0,0" VerticalAlignment="Top" Width="150" Mask="{x:Null}" MaskType="None"/>
+                <dxe:DateEdit x:Name="_txtnamxb" HorizontalAlignment="Left" Margin="0,120,0,0" VerticalAlignment="Top" Width="150"/>
+            </Grid>
+            <Grid HorizontalAlignment="Left" Height="110" VerticalAlignment="Top" Width="121" Margin="22,0,0,0" Grid.RowSpan="3" Grid.Column="3">
+                <dxe:TextEdit x:Name="_txtsoluog" HorizontalAlignment="Left" Margin="0,22,0,0" VerticalAlignment="Top" Width="119" Mask="n0" MaskType="Numeric"/>
+                <dxe:TextEdit x:Name="_txtsotrang" HorizontalAlignment="Left" Margin="0,76,0,0" VerticalAlignment="Top" Width="121" Mask="n0" MaskType="Numeric"/>
+            </Grid>
+        </Grid>
+        <Grid HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="160*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="106*"/>
+                <ColumnDefinition Width="98*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="_btncancel_add" Content="Cancel" Grid.Column="6" HorizontalAlignment="Left" Margin="6,11,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="_btncancel_add_Click"/>
+            <TextBox x:Name="_txtsearch" Grid.Column="4" HorizontalAlignment="Left" Height="23" Margin="35,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+            <dx:SimpleButton x:Name="_btnadd" Content="Add new" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,7,0,0" Click="_btnadd_Click_1" Glyph="{dx:DXImage Image=Apply_16x16.png}"/>
+            <dx:SimpleButton x:Name="_btnedit" Content="Edit" HorizontalAlignment="Stretch"  Margin="15,6,0,0" VerticalAlignment="Stretch"  Click="_btnedit_Click_1" Glyph="{dx:DXImage Image=ClearTableStyle_16x16.png}" Grid.Column="1"/>
+            <dx:SimpleButton x:Name="_btndelete" Content="Delete" HorizontalAlignment="Stretch" Margin="10,7,0,0" VerticalAlignment="Stretch"  Click="_btndelete_Click_1" Glyph="{dx:DXImage Image=Close_16x16.png}" Grid.Column="2"/>
+            <dx:SimpleButton x:Name="_btnrefresh" Content="Refresh" HorizontalAlignment="Stretch" Margin="16,7,0,0" VerticalAlignment="Stretch" RenderTransformOrigin="1.721,0.458"  Click="_btnrefresh_Click_1" Glyph="{dx:DXImage Image=Convert_16x16.png}" Grid.Column="3"/>
+            <dx:SimpleButton x:Name="_btnsearch" Content="Search" HorizontalAlignment="Stretch"  Margin="4,6,0,0" VerticalAlignment="Stretch" RenderTransformOrigin="0.298,0.842"  Grid.Column="5" Click="_btnsearch_Click_1" Glyph="pack://application:,,,/DevExpress.Images.v16.2;component/DevAV/Actions/Search_16x16.png"/>
+
+        </Grid>
+        <dxe:ImageEdit x:Name="_imagebooks" HorizontalAlignment="Left" Margin="0,15,0,0" Grid.Row="2" VerticalAlignment="Top" Width="150" Height="150" MaxHeight="150" MaxWidth="150"/>
+    </Grid>
+</UserControl>

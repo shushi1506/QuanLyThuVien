@@ -1,0 +1,30 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLTV.Views"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" x:Class="QLTV.Views.frmThongKe"
+        mc:Ignorable="d"
+        Title="frmThongKe" Height="332.18" Width="328.028">
+    <Grid>
+        <RadioButton x:Name="_rdsachmember" Content="Sách Mượn Theo Độc Giả" HorizontalAlignment="Left" Margin="45,22,0,0" VerticalAlignment="Top" Click="_rdsachmember_Click" />
+        <RadioButton x:Name="_rdall" Content="Tất Cả sách mượn" HorizontalAlignment="Left" Margin="45,143,0,0" VerticalAlignment="Top" IsChecked="True" Click="_rdall_Click" />
+        <Grid x:Name="_gridmember" HorizontalAlignment="Stretch" Height="85" Margin="0,49,0,0" VerticalAlignment="Top" >
+            <ComboBox x:Name="_cbbtendocgia" HorizontalAlignment="Left" Margin="16,13,0,0" VerticalAlignment="Top" Width="211"/>
+
+
+            <RadioButton x:Name="_ckdatra" Content="Đã Trả" HorizontalAlignment="Left" Margin="14,54,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="_ckchuatra" Content="Chưa Trả" HorizontalAlignment="Left" Margin="102,54,0,0" VerticalAlignment="Top"/>
+            <RadioButton  x:Name="_ckcahai" Content="Cả Hai" HorizontalAlignment="Left" Margin="211,54,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        </Grid>
+        <Grid x:Name="_gridall" HorizontalAlignment="Stretch" Margin="0,175,0,50" VerticalAlignment="Top" >
+            <RadioButton x:Name="_rddatratc" Content="Đã Trả" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="_rdchuatratc" Content="Chưa Trả" HorizontalAlignment="Left" Margin="116,19,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="_rccahaitc" Content="Cả Hai" HorizontalAlignment="Left" Margin="244,19,0,0" VerticalAlignment="Top" IsChecked="True" Click="_rccahaitc_Click"/>
+        </Grid>
+
+        <dx:SimpleButton x:Name="_reportprint" Content="PreView Report" HorizontalAlignment="Left" Height="39" Margin="194,252,0,0" VerticalAlignment="Top" Click="_reportprint_Click"/>
+
+    </Grid>
+</Window>

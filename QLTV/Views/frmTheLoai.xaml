@@ -1,0 +1,130 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QLTV.Views"
+    xmlns:dxgt="http://schemas.devexpress.com/winfx/2008/xaml/grid/themekeys"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="QLTV.Views.frmTheLoai"
+            
+    mc:Ignorable="d" Height="500" Width="900">
+    <UserControl.Resources>
+        <dx:ImageDataConverter x:Key="ImageDataConverter" />
+    </UserControl.Resources>
+    <Grid>
+      
+        <Grid.Resources>
+            <DataTemplate x:Key="DetailCoreTemplate">
+                <dx:MeasurePixelSnapper MaxWidth="300" MaxHeight="300">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Column="0" Grid.Row="0" Text="Mã Thể Loại:" />
+                        <TextBlock Grid.Column="0" Grid.Row="1" Text="Tên Thể Loại:" />
+                        <TextBlock Grid.Column="1" Grid.Row="0" Text="{Binding Row.MaTheLoai}" />
+                        <TextBlock Grid.Column="1" Grid.Row="1" Text="{Binding Row.TenTheLoai}" />
+                    </Grid>
+                </dx:MeasurePixelSnapper>
+            </DataTemplate>
+            <DataTemplate x:Key="rowWithToolTipTemplate">
+                <ContentPresenter Content="{Binding}" ContentTemplate="{Binding View.DefaultDataRowTemplate}">
+                    <ToolTipService.IsEnabled>
+                        <Binding Path="DataContext.Tooltip"/>
+                    </ToolTipService.IsEnabled>
+                    <ToolTipService.InitialShowDelay>10</ToolTipService.InitialShowDelay>
+                    <ToolTipService.ToolTip>
+                        <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplate}" Tag="Transparent" MaxWidth="600"/>
+                    </ToolTipService.ToolTip>
+                </ContentPresenter>
+            </DataTemplate>
+        </Grid.Resources>
+        <dxg:GridControl x:Name="gridTheLoai" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" Margin="0,0,358,332" SelectedItemChanged="gridTheLoai_SelectedItemChanged">
+            <dxg:GridControl.View>
+
+                <dxg:TableView DataRowTemplate="{StaticResource rowWithToolTipTemplate}" UseLightweightTemplates="None" AllowPerPixelScrolling="True" ShowTotalSummary="True" NavigationStyle="Row" AllowScrollAnimation="True" ShowGroupedColumns="True">
+
+
+                    <!-- code cho tooltip -->
+                    <!--<dxg:TableView.RowStyle>
+                        <Style TargetType="dxg:RowControl">
+                            <Setter Property="ToolTipService.ToolTip">
+                                <Setter.Value>
+                                    <ContentControl Content="{Binding}" ContentTemplate="{DynamicResource DetailCoreTemplate}" />
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </dxg:TableView.RowStyle>-->
+               <!-- code cho tooltip -->
+                    <!--<dxg:TableView.RowStyle>
+                        <Style TargetType="dxg:RowControl">
+                         
+                    <Setter Property="ToolTipService.InitialShowDelay" Value="10" />
+        <Setter Property="ToolTipService.HasDropShadow" Value="false" />
+        <Setter Property="ToolTipService.ToolTip">
+            <Setter.Value>
+                <TextBlock Text="{Binding Row.MaTheLoai}"></TextBlock>
+                                    <TextBlock Text="{Binding Row.TenTheLoai}"></TextBlock>
+                                 
+                                </Setter.Value>
+        </Setter>
+                        </Style>
+                    </dxg:TableView.RowStyle>-->
+                </dxg:TableView>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <dxg:GridControl x:Name="gridNXB" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" HorizontalAlignment="Left" Margin="358,173,0,0" VerticalAlignment="Top" Height="180" Width="542" SelectedItemChanged="gridNXB_SelectedItemChanged">
+            <dxg:GridControl.View>
+                <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <dxg:GridControl x:Name="gridTacGia" AutoGenerateColumns="AddNew" EnableSmartColumnsGeneration="True" HorizontalAlignment="Left" Margin="0,358,0,0" VerticalAlignment="Top" Height="142" Width="542" SelectedItemChanged="gridTacGia_SelectedItemChanged">
+            <dxg:GridControl.View>
+                <dxg:TableView AllowPerPixelScrolling="True" ShowTotalSummary="True"/>
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+        <dx:SimpleButton x:Name="_btnaddTL" Content="Add new" HorizontalAlignment="Left" Height="26" Margin="549,0,0,0" VerticalAlignment="Top" Width="90" Click="_btnaddTL_Click"/>
+        <dx:SimpleButton x:Name="_btnsaveTL" Content="Edit" HorizontalAlignment="Left" Height="26" Margin="658,0,0,0" VerticalAlignment="Top" Width="90" Click="_btnsaveTL_Click"/>
+        <dx:SimpleButton x:Name="_btndeleteTL" Content="Delete" HorizontalAlignment="Left" Height="26" Margin="764,0,0,0" VerticalAlignment="Top" Click="_btndeleteTL_Click" Width="90"/>
+        <dx:SimpleButton x:Name="_btnloadTL" Content="Load" HorizontalAlignment="Left" Height="168" Margin="857,0,0,0" VerticalAlignment="Top" Width="43" Click="_btnloadTL_Click"/>
+        <dx:SimpleButton x:Name="_btnaddTG" Content="Add new" HorizontalAlignment="Left" Height="29" Margin="547,471,0,0" VerticalAlignment="Top" Click="_btnaddTG_Click" Width="77"/>
+        <dx:SimpleButton x:Name="_btndeleteTG" Content="Delete" HorizontalAlignment="Left" Height="29" Margin="760,471,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.548,0.414" Click="_btndeleteTG_Click" Width="77"/>
+        <dx:SimpleButton x:Name="_btnsaveTG" Content="Edit" HorizontalAlignment="Left" Height="29" Margin="656,471,0,0" VerticalAlignment="Top" Click="_btnsaveTG_Click" Width="77"/>
+        <dx:SimpleButton x:Name="_btnloadTG" Content="Load" HorizontalAlignment="Left" Height="42" Margin="807,405,-49,0" VerticalAlignment="Top" Width="142" RenderTransformOrigin="0.5,0.5" Click="_btnloadTG_Click">
+            <dx:SimpleButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.648"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </dx:SimpleButton.RenderTransform>
+        </dx:SimpleButton>
+        <dx:SimpleButton x:Name="_btnaddNXB" Content="Add new" HorizontalAlignment="Left" Height="50" Margin="0,173,0,0" VerticalAlignment="Top" Width="59" Click="_btnaddNXB_Click"/>
+        <dx:SimpleButton x:Name="_btnsaveNXB" Content="Edit" HorizontalAlignment="Left" Height="50" Margin="0,228,0,0" VerticalAlignment="Top" Width="59" Click="_btnsaveNXB_Click"/>
+        <dx:SimpleButton x:Name="_btnloadNXB" Content="Load" HorizontalAlignment="Left" Height="50" Margin="92,228,0,0" VerticalAlignment="Top" Click="_btnloadNXB_Click"/>
+        <dx:SimpleButton x:Name="_btndeleteNXB" Content="Delete" HorizontalAlignment="Left" Height="51" Margin="0,283,0,0" VerticalAlignment="Top" Width="59" Click="_btndeleteNXB_Click"/>
+        <TextBox x:Name="_txttentheloai" ScrollViewer.HorizontalScrollBarVisibility="Auto" Height="23" Margin="658,114,122,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Mã Thế Loại" HorizontalAlignment="Left" Margin="581,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Tên Thể Loại" HorizontalAlignment="Left" Margin="787,115,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Mã NXB" HorizontalAlignment="Left" Margin="166,220,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Tên NXB" HorizontalAlignment="Left" Margin="165,269,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Tên Tác Giả" HorizontalAlignment="Left" Margin="558,418,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Mã Tác Giả" HorizontalAlignment="Left" Margin="777,383,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="_txttennxb" HorizontalAlignment="Left" Height="23" Margin="224,267,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="_txttentacgia" ScrollViewer.CanContentScroll="True" HorizontalAlignment="Left" Height="23" Margin="629,416,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <dx:SimpleButton x:Name="_btnaddTL_cancel" Content="Cancel" HorizontalAlignment="Left" Height="23" Margin="549,42,0,0" VerticalAlignment="Top" Width="93" Visibility="Hidden" IsEnabled="False" Click="_btnaddTL_cancel_Click"/>
+        <dx:SimpleButton x:Name="_btnaddNXB_cancel" Content="Cancel" HorizontalAlignment="Left" Height="50" Margin="53,173,0,0" VerticalAlignment="Top" Width="38" RenderTransformOrigin="-0.105,0.447" Visibility="Hidden" IsEnabled="False" Click="_btnaddNXB_cancel_Click"/>
+        <dx:SimpleButton x:Name="_btnaddTG_cancel" Content="Cancel" HorizontalAlignment="Left" Height="26" Margin="547,443,0,0" VerticalAlignment="Top" Width="69" IsEnabled="False" Visibility="Hidden" Click="_btnaddTG_cancel_Click"/>
+
+        <dxe:TextEdit x:Name="_txtmatheloai" HorizontalAlignment="Left" Margin="656,70,0,0" VerticalAlignment="Top" Width="120" Mask="[a-zA-Z]+" MaskType="RegEx"/>
+        <dxe:TextEdit  x:Name="_txtmanxb" HorizontalAlignment="Left" Margin="224,220,0,0" VerticalAlignment="Top" Width="120" Mask="[a-zA-Z]+" MaskType="RegEx"/>
+        <dxe:TextEdit x:Name="_txtmatacgia" HorizontalAlignment="Left" Margin="629,383,0,0" VerticalAlignment="Top" Width="120" Mask="{x:Null}" MaskType="None" ScrollViewer.CanContentScroll="True"/>
+
+    </Grid>
+</UserControl>

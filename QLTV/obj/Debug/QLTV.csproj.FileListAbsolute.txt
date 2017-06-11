@@ -1,0 +1,862 @@
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Images.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\EntityFramework.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\EntityFramework.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Controls.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.NavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\frmMain.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\MainWindow.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmDocGia.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmSach.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmSachMuon.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmTheLoai.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmUser.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\App.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV_Content.g.cs
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.cache
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.lref
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\frmMain.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\MainWindow.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmDocGia.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmSach.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmSachMuon.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmTheLoai.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\Views\frmUser.baml
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.g.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.DocGiaReport.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.SachHet.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.XtraReport1.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.XtraReport2.resources
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Shushi\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\QLTV.exe.config
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.exe
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.pdb
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\frmMain.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\MainWindow.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmDocGia.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmSach.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmSachMuon.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmTheLoai.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmUser.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\App.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV_Content.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.cache
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.lref
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\QLTV.exe
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\QLTV.pdb
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Images.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\EntityFramework.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.CodeParser.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\EntityFramework.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\frmMain.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\MainWindow.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmDocGia.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmSach.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmSachMuon.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmTheLoai.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmUser.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.g.resources
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.Reports.BookLoanByMemBer.resources
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmThongKe.g.cs
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\Views\frmThongKe.baml
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.Reports.BookLoanPhieuMuon.resources
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.Reports.BooksLoanAll.resources
+F:\tai lieu SV\XAML\QLTV\QLTV\obj\Debug\QLTV.Reports.MemBerAll.resources
+F:\Apps\QLTV\QLTV\bin\Debug\QLTV.exe.config
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.exe
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.pdb
+F:\Apps\QLTV\QLTV\bin\Debug\QLTV.exe
+F:\Apps\QLTV\QLTV\bin\Debug\QLTV.pdb
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Images.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\EntityFramework.dll
+F:\Apps\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.CodeParser.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Extensions.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Data.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Office.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.PivotGrid.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Carousel.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Charts.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Controls.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Core.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Docking.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.DocumentViewer.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Grid.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Layout.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.LayoutControl.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.NavBar.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Printing.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Ribbon.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpf.Scheduler.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Xpo.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraGauges.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraReports.v16.2.Extensions.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\EntityFramework.xml
+F:\Apps\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraBars.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraPivotGrid.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+F:\Apps\QLTV\QLTV\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.PivotGrid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Charts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Controls.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Core.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Docking.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Grid.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.NavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Printing.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Ribbon.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpf.Scheduler.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGauges.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraReports.v16.2.Extensions.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\QLTV\QLTV\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+F:\Apps\QLTV\QLTV\obj\Debug\frmMain.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\MainWindow.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmDocGia.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmSach.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmSachMuon.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmTheLoai.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmThongKe.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmUser.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\App.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV_Content.g.cs
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.cache
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV_MarkupCompile.lref
+F:\Apps\QLTV\QLTV\obj\Debug\frmMain.baml
+F:\Apps\QLTV\QLTV\obj\Debug\MainWindow.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmDocGia.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmKhoaLop.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmSach.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmSachMuon.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmTheLoai.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmThongKe.baml
+F:\Apps\QLTV\QLTV\obj\Debug\Views\frmUser.baml
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.g.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.Reports.BookLoanByMemBer.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.Reports.BookLoanPhieuMuon.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.Reports.BooksLoanAll.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.Reports.MemBerAll.resources
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+F:\Apps\QLTV\QLTV\obj\Debug\QLTV.exe.licenses
